@@ -1,2 +1,2 @@
-# mtc-infra-prod
-terraform code for the terraform course
+#This is a prod env for terraform
+The owner is Boyan Balev 
